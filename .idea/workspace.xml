@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c13d8b1b-04fc-47ef-bdb7-c62382a73d08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WKFvFLIK1KGparWII13A0Azqfp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main" />
+      <recent name="test" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GraphSearchTest.dfsSearchTest">
+    <configuration name="DollarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.DollarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DollarTest.두달러객체가같을까" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.DollarTest" />
+      <option name="METHOD_NAME" value="두달러객체가같을까" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DollarTest.제대로_곱해질까" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.DollarTest" />
+      <option name="METHOD_NAME" value="제대로_곱해질까" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphSearchTest.dfsSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GraphSearchTest" />
+      <option name="METHOD_NAME" value="dfsSearchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphSearchTest.dfsSearchTest" />
+        <item itemvalue="JUnit.DollarTest" />
+        <item itemvalue="JUnit.DollarTest.두달러객체가같을까" />
+        <item itemvalue="JUnit.DollarTest.제대로_곱해질까" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c13d8b1b-04fc-47ef-bdb7-c62382a73d08" name="Default Changelist" comment="" />
+      <created>1578890607174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578890607174</updated>
+      <workItem from="1578890609760" duration="3928000" />
+      <workItem from="1579011600490" duration="1586000" />
+      <workItem from="1579164607324" duration="1448000" />
+      <workItem from="1579174975535" duration="2748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2810" y="87" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578891099391">
+      <screen x="1792" y="-416" width="2560" height="1440" />
+    </state>
+    <state x="2810" y="87" key="#com.intellij.ide.util.PackageChooserDialog/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578891099391" />
+    <state x="2905" y="-6" width="560" height="619" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1578890999086">
+      <screen x="1792" y="-416" width="2560" height="1440" />
+    </state>
+    <state x="2905" y="-6" width="560" height="619" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578890999086" />
+    <state x="662" y="219" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1579175745690">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="662" y="219" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1579175745690" />
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1579178020706">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1579178020706" />
+    <state width="2518" height="423" key="GridCell.Tab.0.bottom/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578893425677" />
+    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1579178020704">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="317" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1579178020704" />
+    <state width="2518" height="423" key="GridCell.Tab.0.center/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578893425674" />
+    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1579178020704">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="317" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1579178020704" />
+    <state width="2518" height="423" key="GridCell.Tab.0.left/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578893425672" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1579178020705">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="317" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1579178020705" />
+    <state width="2518" height="423" key="GridCell.Tab.0.right/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578893425675" />
+    <state x="2560" y="-115" key="SettingsEditor" timestamp="1579164857677">
+      <screen x="1792" y="-416" width="2560" height="1440" />
+    </state>
+    <state x="2560" y="-115" key="SettingsEditor/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1579164857677" />
+    <state x="2798" y="204" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578890997147">
+      <screen x="1792" y="-416" width="2560" height="1440" />
+    </state>
+    <state x="2798" y="204" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578890997147" />
+    <state x="741" y="353" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1579175517044">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="741" y="353" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1579175517044" />
+    <state x="2851" y="38" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1579164651359" />
+    <state x="2834" y="-59" key="refactoring.ChangeSignatureDialog" timestamp="1578891533709">
+      <screen x="1792" y="-416" width="2560" height="1440" />
+    </state>
+    <state x="2834" y="-59" key="refactoring.ChangeSignatureDialog/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578891533709" />
+    <state x="560" y="264" width="672" height="677" key="run.anything.popup" timestamp="1579176977673">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="560" y="264" width="672" height="677" key="run.anything.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1579176977673" />
+    <state x="2735" y="-87" width="672" height="678" key="search.everywhere.popup" timestamp="1578892306509">
+      <screen x="1792" y="-416" width="2560" height="1440" />
+    </state>
+    <state x="2735" y="-87" width="672" height="678" key="search.everywhere.popup/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578892306509" />
+  </component>
+</project>
