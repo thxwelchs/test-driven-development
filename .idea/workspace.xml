@@ -4,6 +4,7 @@
     <list default="true" id="c13d8b1b-04fc-47ef-bdb7-c62382a73d08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Graph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Graph.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/GraphSearchTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/GraphSearchTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <recent name="main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GraphSearchTest.dfsSearchTest">
+  <component name="RunManager" selected="JUnit.GraphSearchTest.bfsTest (1)">
     <configuration name="DollarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test-driven-development" />
       <extension name="coverage">
@@ -74,7 +75,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DollarTest.두달러객체가같을까" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GraphSearchTest.bfsTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test-driven-development" />
       <extension name="coverage">
         <pattern>
@@ -83,24 +84,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.DollarTest" />
-      <option name="METHOD_NAME" value="두달러객체가같을까" />
+      <option name="MAIN_CLASS_NAME" value="test.GraphSearchTest" />
+      <option name="METHOD_NAME" value="bfsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DollarTest.제대로_곱해질까" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GraphSearchTest.bfsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test-driven-development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.DollarTest" />
-      <option name="METHOD_NAME" value="제대로_곱해질까" />
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.GraphSearchTest" />
+      <option name="METHOD_NAME" value="bfsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,12 +123,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GraphSearchTest.dfsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.GraphSearchTest" />
+      <option name="METHOD_NAME" value="dfsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GraphSearchTest.bfsTest (1)" />
+        <item itemvalue="JUnit.GraphSearchTest.dfsTest" />
+        <item itemvalue="JUnit.GraphSearchTest.bfsTest" />
         <item itemvalue="JUnit.GraphSearchTest.dfsSearchTest" />
         <item itemvalue="JUnit.DollarTest" />
-        <item itemvalue="JUnit.DollarTest.두달러객체가같을까" />
-        <item itemvalue="JUnit.DollarTest.제대로_곱해질까" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +175,7 @@
       <workItem from="1579011600490" duration="1586000" />
       <workItem from="1579164607324" duration="1448000" />
       <workItem from="1579174975535" duration="3321000" />
-      <workItem from="1579248751880" duration="574000" />
+      <workItem from="1579248751880" duration="4547000" />
     </task>
     <servers />
   </component>
@@ -177,28 +195,28 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="662" y="219" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1579175745690" />
-    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1579222522315">
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1579268747870">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1579178130105" />
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1579268747870" />
     <state width="1750" height="317" key="GridCell.Tab.0.bottom/1792.-416.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1579222522315" />
     <state width="2518" height="423" key="GridCell.Tab.0.bottom/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578893425677" />
-    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1579222522314">
+    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1579268747869">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1579178130103" />
+    <state width="1750" height="317" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1579268747869" />
     <state width="1750" height="317" key="GridCell.Tab.0.center/1792.-416.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1579222522314" />
     <state width="2518" height="423" key="GridCell.Tab.0.center/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578893425674" />
-    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1579222522313">
+    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1579268747869">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1579178130103" />
+    <state width="1750" height="317" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1579268747869" />
     <state width="1750" height="317" key="GridCell.Tab.0.left/1792.-416.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1579222522313" />
     <state width="2518" height="423" key="GridCell.Tab.0.left/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578893425672" />
-    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1579222522314">
+    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1579268747870">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1579178130104" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1579268747870" />
     <state width="1750" height="317" key="GridCell.Tab.0.right/1792.-416.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1579222522314" />
     <state width="2518" height="423" key="GridCell.Tab.0.right/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578893425675" />
     <state x="2560" y="-115" key="SettingsEditor" timestamp="1579164857677">
@@ -209,6 +227,10 @@
       <screen x="1792" y="-416" width="2560" height="1440" />
     </state>
     <state x="2798" y="204" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578890997147" />
+    <state x="2750" y="61" width="643" height="486" key="find.popup" timestamp="1579249591724">
+      <screen x="1792" y="-416" width="2560" height="1440" />
+    </state>
+    <state x="2750" y="61" width="643" height="486" key="find.popup/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1579249591724" />
     <state x="741" y="353" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1579175517044">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -218,13 +240,14 @@
       <screen x="1792" y="-416" width="2560" height="1440" />
     </state>
     <state x="2834" y="-59" key="refactoring.ChangeSignatureDialog/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578891533709" />
-    <state x="560" y="264" width="672" height="677" key="run.anything.popup" timestamp="1579176977673">
+    <state x="560" y="264" width="672" height="677" key="run.anything.popup" timestamp="1579268447333">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="560" y="264" width="672" height="677" key="run.anything.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1579176977673" />
-    <state x="2735" y="-87" width="672" height="678" key="search.everywhere.popup" timestamp="1578892306509">
-      <screen x="1792" y="-416" width="2560" height="1440" />
+    <state x="560" y="264" width="672" height="677" key="run.anything.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1579268447333" />
+    <state x="660" y="256" width="672" height="528" key="search.everywhere.popup" timestamp="1579268373157">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="2735" y="-87" width="672" height="678" key="search.everywhere.popup/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1578892306509" />
+    <state x="660" y="256" width="672" height="528" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1579268373157" />
+    <state x="2735" y="-87" width="672" height="678" key="search.everywhere.popup/1792.-416.2560.1440/0.0.1792.1120@1792.-416.2560.1440" timestamp="1579249596947" />
   </component>
 </project>
