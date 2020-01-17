@@ -37,7 +37,7 @@ class Graph(size: Int) {
      * 루트에서부터 시작하여 왼쪽 자식 노드로부터 깊이 들어가여 더이상 자식이 없을 때까지 들어갑니다. 그러다 자식이 존재하지 않으면
      * 다시 다른 뿌리에 인접한 노드가 있을 때까지의 노드로 거슬러올라가는 형태 ( 거슬러 올라가야 하기 때문에 Stack 자료구조 활용 )
      */
-    fun dfsSearch(i: Int) {
+    fun DFS(i: Int) {
         val root = nodes[i]
         val stack = Stack<Node>()
 
@@ -60,6 +60,31 @@ class Graph(size: Int) {
                 }
             }
             visit(r)
+        }
+    }
+
+    /**
+     * @note Queue 자료구조를 활용한 BFS
+     * 그래프를 순회하는 순서는 다음과 같습니다.
+     * 1. 큐에서 노드를 뺀다.
+     * 2. 뺀 노드에 인접한 노드들이 있다면 모두 큐에 넣는다.
+     * 3. 뺀 노드를 방문한다.
+     */
+    fun BFS(i: Int) {
+        val root = nodes[i]
+        val q: Queue<Node> = LinkedList()
+        q.offer(root)
+        root.marked = true
+
+        while (!q.isEmpty()) {
+            val n = q.poll()
+            n.adjacent.forEach { _n ->
+                if(!_n.marked) {
+                    n.marked = true
+                    q.offer(n)
+                }
+            }
+            visit(n)
         }
     }
 
